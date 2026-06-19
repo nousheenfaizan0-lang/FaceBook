@@ -1,0 +1,6 @@
+{
+  "name": "NexusSocial",
+  "description": "A high-velocity, glassmorphic social ecosystem with an interactive feed, community hubs, marketplace listings, and beautiful visual depth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
